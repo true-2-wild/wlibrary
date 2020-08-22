@@ -7,7 +7,7 @@ To create a navbar, create a div element and give it the class of nav-bar. For e
 To get this to work, you must include this link in the head section of your document.
 
 ```html
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="https://true-2-wild.github.io/wlibrary/css/styles.css">
 ```
 
 If you want to use the fonts that I do, you can paste this too.
