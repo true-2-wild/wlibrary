@@ -4,6 +4,8 @@ Hi there! My name is Wenddell. This is a library that I created for creating nav
 
 To create a navbar, create a div element and give it the class of nav-bar. For each item in the navbar, create an anchor tag with the class nav-bar-item. If you wnat a larger link, you can put it in the top of your div. It should be and anchor tag with the class homepage-link. 
 
+If you want to check out the css I wrote for this project, you can find it [here](https://true-2-wild/wlibrary/css/styles.css)
+
 To get this to work, you must include this link in the head section of your document.
 
 ```html
