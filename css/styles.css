@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+.nav-bar {
+  margin: 0;
+  text-align: left;
+  background-color: #424242;
+  color: white;
+  height: 40px;
+}
+.nav-bar-item {
+  position: relative;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  display: inline;
+  font-size: 0.6rem;
+  text-decoration: none;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.homepage-link {
+  position: relative;
+  top: 3px;
+  color: white;
+  font-family: 'Alata', sans-serif;
+  display: inline;
+  font-size: 1.5rem;
+  text-decoration: none;
+  margin: 10px;
+}
