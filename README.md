@@ -13,7 +13,7 @@ To get this to work, you must include this link in the head section of your docu
 If you want to use the fonts that I do, you can paste this too.
 
 ```html
-<link href="https://fonts.googleapis.com/css2?family=Alata&family=Quicksand&display=swap" rel="stylesheet">  </head>
+<link href="https://fonts.googleapis.com/css2?family=Alata&family=Quicksand&display=swap" rel="stylesheet">
 ```
 
 Enjoy!
